@@ -46,6 +46,3 @@
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = git://github.com/ervandew/supertab.git
-[submodule "bundle/vim-preview"]
-	path = bundle/vim-preview
-	url = git://github.com/greyblake/vim-preview.git
